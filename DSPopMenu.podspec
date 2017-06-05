@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "DSPopMenu"
   s.version      = "0.0.1"
-  s.summary      = "A short description of DSPopMenu."
+  s.summary      = "DSPopMenu是一个弹出菜单"
   s.description  = <<-DESC
-                      DSPopMenu是一个弹出菜单
+                      DSPopMenu是一个弹出菜单DSPopMenu是一个弹出菜单DSPopMenu是一个弹出菜单
                    DESC
   s.homepage     = "https://github.com/suxiaoyao/DSPopMenu"
   s.license      = "MIT"
