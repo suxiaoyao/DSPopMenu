@@ -1,0 +1,14 @@
+platform :ios, '8.0'
+
+#屏蔽所有警告
+inhibit_all_warnings!
+
+#使用.frameworks库
+use_frameworks!
+
+#target名称
+target 'DSPopMenuDemo' do
+
+pod 'Masonry'
+
+end
